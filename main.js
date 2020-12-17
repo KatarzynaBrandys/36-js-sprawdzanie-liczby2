@@ -5,3 +5,7 @@ function compare(x,y) {
         return false
     }
 }
+
+console.log(compare(19,40));
+console.log(compare(19,1));
+console.log(compare(301,20));
